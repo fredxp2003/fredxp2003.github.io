@@ -21,7 +21,7 @@ body {
   }
 
   a:link {
-    color: pink;
+    color: black;
     background-color: transparent;
     text-decoration: none;
     font-family:'Lucida Sans';
@@ -51,18 +51,3 @@ body {
     font-family:'Lucida Sans';
 
   }
-
-  table,
-td {
-    border: 2px solid white;
-    color:white;
-    background-color: black;
-    width: 750px;
-    text-align: center;
-}
-
-thead,
-tfoot {
-    background-color: black;
-    color: #fff;
-}
